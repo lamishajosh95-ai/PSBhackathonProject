@@ -1,0 +1,10 @@
+{
+  "appId": "com.lamisha.psbhackathon",
+  "appName": "PSBhackathonProject",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PSBhackathonProject</string>
+    <string name="title_activity_main">PSBhackathonProject</string>
+    <string name="package_name">com.lamisha.psbhackathon</string>
+    <string name="custom_url_scheme">com.lamisha.psbhackathon</string>
+</resources>
